@@ -4,8 +4,7 @@ This notebook explores and analyses the text dataset of people's intent expressi
 
 ## 💡 Interesting Findings
 
-
-
+![Test](https://github.com/amy-panda/Text_Analysis_Covid_Vaccine_Hesitancy/blob/main/images/top10Qs.png)
 
 
 
@@ -25,7 +24,7 @@ Based on the findings, a few suggestions are provided to the public health offic
 - Word count
 - Word cloud
 - Bigrams and trigrams
-- Text data cleaning including 
+- Text data cleaning including lowercasing, removing punctuations, removing non-alphabatic and non-number, removing and customizing stop words, lemmatization. 
 
 
 
